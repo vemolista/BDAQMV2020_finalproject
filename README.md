@@ -4,7 +4,10 @@
 - semester spring 2020
 
 # How to run
-Download the modified Ames Housing dataset (which is not committed yet, haha) and modify the line where the csv is read. Then you should be on your way.
+Download the AmesHousing.csv dataset (and you might want to modify the line where the csv is read). 
+For predicting custom houses at the end of the analysis, houses_for_prediction.csv is used.
+
+Then you should be on your way.
 
 # Caution ⚠
 Creators are not, by any means, experienced in data analytics or with Python. While the creators strived for the code to be readable, it may contain some crazy unnecessary or downright wrong stuff.
